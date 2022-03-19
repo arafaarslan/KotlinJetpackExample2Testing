@@ -1,0 +1,10 @@
+package com.example.artbook.Util
+
+/**
+ * Created by aarslan on 20/02/2022.
+ */
+object Util {
+
+    const val API_KEY = "25800680-0ac8843a37dd89e7d576ac653"
+    const val BASE_URL = "https://pixabay.com/"
+}
